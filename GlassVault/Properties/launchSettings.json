@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GlassVault (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GlassVault (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
